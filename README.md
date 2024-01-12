@@ -4,3 +4,4 @@ Breast Cancer Dataset comes from here: https://www.kaggle.com/datasets/uciml/bre
 
 Obesity Dataset comes from here: https://www.kaggle.com/datasets/muhramasaputra/obesity-based-on-eating-habits-and-physical-cond/data
 
+Weather dataset comes from here: https://www.kaggle.com/datasets/budincsevity/szeged-weather
