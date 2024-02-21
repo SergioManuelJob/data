@@ -7,3 +7,5 @@ Obesity Dataset comes from here: https://www.kaggle.com/datasets/muhramasaputra/
 Weather dataset comes from here: https://www.kaggle.com/datasets/budincsevity/szeged-weather
 
 Wine dataset comes from here: https://www.kaggle.com/datasets/harrywang/wine-dataset-for-clustering
+
+Wine quality datasets (red and white) comes from here: https://archive.ics.uci.edu/dataset/186/wine+quality
