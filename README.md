@@ -13,3 +13,5 @@ Wine quality datasets (red and white) comes from here: https://archive.ics.uci.e
 Dengue dataset comes from here: https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread
 
 Earthquake dataset comes from here: https://www.drivendata.org/competitions/57/nepal-earthquake
+
+Bank dataset comes from here: https://archive.ics.uci.edu/dataset/222/bank+marketing
